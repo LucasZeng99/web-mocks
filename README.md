@@ -1,2 +1,2 @@
 # website-mocks
-mock websites implemented in Vue, and React. (on-going, nothing so far.)
+mock websites implemented with Vue and/or React. (on-going, nothing so far.)
